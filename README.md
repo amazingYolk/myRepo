@@ -1,8 +1,3 @@
-# myRepo
-I created this for practise
-
-Skip to end of metadata
-Created by Luo Lei (NCS) 14 minutes agoGo to start of metadata
 原文地址：梁桂钊的博客
 
 博客地址：blog.720ui.com
@@ -211,5 +206,3 @@ HTTPS 降级攻击
 说说你认为的架构师是什么样的，架构师主要做什么
 说说你所理解的技术专家
 （完）
-
-LikeBe the first to like this
